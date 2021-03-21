@@ -1,0 +1,8 @@
+{
+  "name": "I am working",
+  "description": "Plugin that blocks social and distracting sites during work hours",
+  "version": "1.0",
+  "manifest_version": 3,
+  "service_worker": "./dist/ServiceWorker.js",
+  "permissions": ["storage", "tabs"]
+}
