@@ -1,6 +1,4 @@
-node_modules
-public
-.idea
-.vscode
-.DS_Store
-dist
+npm-debug.log
+node_modules/
+dist/
+tmp/
